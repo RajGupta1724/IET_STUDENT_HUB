@@ -1,0 +1,84 @@
+{
+    "cse": {
+        "3": {
+            "maths3": {
+                "syllabus": "https://drive.google.com/file/d/11ZU0JehqmGZ5Lj38UZVZiCQCAMWxR_1t/view?usp=drive_link",
+                "question_papers": "https://drive.google.com/file/d/107I6du_IQxZ-bO61mHvZd52Moj8cVlP2/view?usp=drive_link"
+            },
+            "dsa": {
+                "syllabus": "https://drive.google.com/file/d/11TFE8vEMHaCZC05XApSpOYFgP3wwvAr0/view?usp=drive_link",
+                "question_papers": "https://drive.google.com/file/d/1TDJ8OgxCi8zF4XuWllUkoIE6pg6qy8Et/view?usp=drive_link"
+            },
+            "dbms": {
+                "syllabus": "https://drive.google.com/file/d/11KGFpZ_TBWxu4t1vSMDSdqC1eahOiSLs/view?usp=drive_link",
+                "question_papers": "https://drive.google.com/file/d/1DbgEjY4m91-f_FqLZGR_9kNQHs4Zzb5Z/view?usp=drive_link"
+            },
+            "de": {
+                "syllabus": "https://drive.google.com/file/d/11WNyyaoby3_rIOxlF9NETVQpOr68GkeI/view?usp=drive_link",
+                "question_papers": "https://drive.google.com/file/d/1i6DZYj8GYEPZrkO2PPjb75yYWG3AkH3-/view?usp=drive_link"
+            },
+            "se": {
+                "syllabus": "https://drive.google.com/file/d/11qM87EHqHtI1GYCBFlZl6i2LG1mfdyhG/view?usp=drive_link",
+                "question_papers": "https://drive.google.com/file/d/1WGwG7bFC13Vm5nSjeOaPSM58CNt252tV/view?usp=drive_link"
+            },
+            "hvpe": {
+                "syllabus": "https://drive.google.com/file/d/11XTAy1dU0OhFklPtGDwZpe4XF48f4zH0/view?usp=drive_link",
+                "question_papers": "https://drive.google.com/drive/folders/1s-zdkbbiZKrsnEMxCovY820TVxqb2PZM?usp=drive_link"
+            }
+        },
+        "4": {
+            "maths4": {
+                "syllabus": "https://drive.google.com/file/d/11K90CRvaY9_pk80qyNzGd6p7fkz2MY5i/view?usp=drive_link",
+                "question_papers": "#"
+            },
+            "oops": {
+                "syllabus": "https://drive.google.com/file/d/11G6a6EI4xFP4zwMM26M7oLue-9qHkWv8/view?usp=drive_link",
+                "question_papers": "#"
+            },
+            "daa": {
+                "syllabus": "https://drive.google.com/file/d/114tVlkbcpZ-0YRTMwmO2r5KGhRUZpNQD/view?usp=drive_link",
+                "question_papers": "#"
+            },
+            "co": {
+                "syllabus": "https://drive.google.com/file/d/11G5HmgW4-Act4_mQxxv2wfK0HszFErAW/view?usp=drive_link",
+                "question_papers": "#"
+            },
+            "ee": {
+                "syllabus": "https://drive.google.com/file/d/11rU6DUhJMV1Susf2EyW-8q9Vx2awsHx-/view?usp=drive_link",
+                "question_papers": "#"
+            },
+            "im": {
+                "syllabus": "https://drive.google.com/file/d/118DwltD3Daaaz7k68eFJjtVmdvS-Jpcb/view?usp=drive_link",
+                "question_papers": "#"
+            }
+        }   
+    },
+    "ece": {
+        "3": {
+           "maths3": {
+                "syllabus": "https://drive.google.com/file/d/11ZU0JehqmGZ5Lj38UZVZiCQCAMWxR_1t/view?usp=drive_link",
+                "question_papers": "https://drive.google.com/file/d/107I6du_IQxZ-bO61mHvZd52Moj8cVlP2/view?usp=drive_link"
+            },
+            "dsa": {
+                "syllabus": "https://drive.google.com/file/d/11TFE8vEMHaCZC05XApSpOYFgP3wwvAr0/view?usp=drive_link",
+                "question_papers": "https://drive.google.com/file/d/1TDJ8OgxCi8zF4XuWllUkoIE6pg6qy8Et/view?usp=drive_link"
+            },
+            "de": {
+                "syllabus": "https://drive.google.com/file/d/11WNyyaoby3_rIOxlF9NETVQpOr68GkeI/view?usp=drive_link",
+                "question_papers": "https://drive.google.com/file/d/1i6DZYj8GYEPZrkO2PPjb75yYWG3AkH3-/view?usp=drive_link"
+            },
+            "hvpe": {
+                "syllabus": "https://drive.google.com/file/d/11XTAy1dU0OhFklPtGDwZpe4XF48f4zH0/view?usp=drive_link",
+                "question_papers": "https://drive.google.com/drive/folders/1s-zdkbbiZKrsnEMxCovY820TVxqb2PZM?usp=drive_link"
+            },
+            "edc": {
+                "syllabus": "#",
+                "question_papers": "#"
+            },
+            "nas": {
+                "syllabus": "#",
+                "question_papers": "#"
+            }   
+        }
+    }
+}

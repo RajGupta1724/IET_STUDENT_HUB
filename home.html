@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Syllabus & Question Hub</title>
+    <link rel="stylesheet" href="homepage.css">
+</head>
+<body>
+
+    <header>
+        <div class="contain">
+            IET SYLLABOUS & QUESTION PAPER
+            <div class="theme-menu">
+                <button id="theme-button">⋮</button>
+                <div class="theme-options" id="theme-options" style="display: none; ">
+                    <button id="toggle-theme-btn">Dark Light</button> 
+                    <button id="toggle-watermark-btn">Toggle Watermark</button>
+                </div>
+            </div>
+        </div>
+        <div class="watermark" id="watermark">
+            <img src="bg.png" alt="watermark">
+        </div>
+       
+    </header>
+<div class="container">
+
+    <div class="form-group">
+        <label for="branch">Select Branch</label>
+        <select id="branch">
+            <option value="cse">Computer Science & Engineering (CSE)</option>
+            <option value="ece">Electronics & Communication Engineering (ECE)</option>
+            <option value="mech">Mechanical Engineering (MECH)</option>
+            <option value="civil">Civil Engineering (CIVIL)</option>
+            <option value="eee">Electrical & Electronics Engineering (EEE)</option>
+        </select>
+    </div>
+
+    <div class="form-group"> 
+        <label for="semester">Select Semester</label>
+        <select id="semester">
+            <option value="1">Semester 1</option>
+            <option value="2">Semester 2</option>
+            <option value="3">Semester 3</option>
+            <option value="4">Semester 4</option>
+            <option value="5">Semester 5</option>
+            <option value="6">Semester 6</option>
+            <option value="7">Semester 7</option>
+            <option value="8">Semester 8</option>
+        </select>
+    </div>
+
+    <div class="form-group">
+        <label for="subject">Select Subject</label>
+        <select id="subject">
+            <option value="maths3">Mathematics III</option>
+            <option value="dsa">Data Structures & Algorithms (DSA)</option>
+            <option value="dbms">Database Management System (DBMS)</option>
+            <option value="de">Digital Electronics (DE)</option>
+            <option value="se">Software Engineering (SE)</option>
+            <option value="hvpe">Human Values and Ethics (HVE)</option>
+            <option value="ee">Environmental & Ecology</option>
+            <option value="maths4">Discrete Mathematics</option>
+            <option value="daa">Design and Analysis of Algorithms</option>
+            <option value="oops">Object Oriented Programming Language(Java)</option>
+            <option value="im">Industrial Management</option>
+            <option value="co">Computer Organization</option>
+            <option value="edc">Electronic Devices & Circuits(EDC)</option>
+            <option value="nas">Network Analysis & Synthesis</option>
+        </select>
+    </div>
+
+    <button id="search-button">Show Syllabus & Question Papers</button>
+
+    <div class="results" id="results"></div>
+</div>
+
+ <script src="home.js">
+    
+</script>
+
+
+ 
+
+
+</body>
+</html>

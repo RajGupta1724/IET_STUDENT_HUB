@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login Page</title>
+    <link rel="stylesheet" href="loginpage.css">
+
+</head>
+<body>
+
+
+    <div class="watermark">
+        <img src="bg.png" alt="watermark">
+    </div>
+
+    <header>I.E.T. STUDENT HUB</header>
+    <fieldset>
+        <legend>Login</legend>
+        <label for="username">Username:</label>
+        <input type="text" name="username" id="username" placeholder="Username">
+        <br><br>
+        <label for="password">Password:</label>
+        <input type="password" name="password" id="password" placeholder="Password">
+        <br><br>
+        <button type="button" onclick="validateLogin()">Login</button>
+    </fieldset>
+
+    <script>
+        function validateLogin() {
+            // Valid credentials
+            const validUsername = "student";
+            const validPassword = "1234";
+
+            // Get user input
+            const username = document.getElementById("username").value;
+            const password = document.getElementById("password").value;
+
+            // Validate user input 
+            if (username === validUsername && password === validPassword) {
+                alert("Login successful!");
+                window.location.href = "home.html"; 
+            } else {
+                alert("Invalid username or password. Please try again.");
+            }
+        }
+
+
+    </script>
+</body>
+</html>
